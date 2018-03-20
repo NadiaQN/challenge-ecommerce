@@ -1,1 +1,30 @@
-/* you can add any styles you think could improve user's experience */
+body{
+    margin: 0 auto;
+}
+.total {
+    background-color: #04B431;
+    color: #fff;
+    width: 8em;
+    padding: 1%;
+    border-radius: 0.5em;
+}
+.product-container {
+    background-color: #BDBDBD;
+
+}
+.product {
+    display: inline-block;
+    margin: 2%;
+    text-align: center;
+}
+.btn {
+    padding: 5%;
+    border: none;
+    background-color: purple;
+    color: #fff;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #04B431;
+}
